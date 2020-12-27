@@ -11,7 +11,7 @@ namespace AppGallery
             InitializeComponent();
 
             //var pagina = new NavigationPage(new XamarinForms.Paginas.PaginaDeNavegacao.Conteudo01());
-            MainPage = new XamarinForms.Paginas.PaginaDeCarrossel.Carrossel();
+            MainPage = new XamarinForms.Paginas.PaginaDeAbas.Abas();
         }
 
         protected override void OnStart()
