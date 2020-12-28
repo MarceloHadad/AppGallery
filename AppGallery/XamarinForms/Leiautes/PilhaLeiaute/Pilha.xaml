@@ -5,7 +5,7 @@
     <ContentPage.Content>
         <StackLayout Spacing="0">
             <StackLayout VerticalOptions="FillAndExpand" Padding="10" Orientation="Vertical" BackgroundColor="#707070">
-                <Label Text="Linha 01" VerticalOptions="CenterAndExpand" BackgroundColor="White" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Linha 01" VerticalOptions="CenterAndExpand" BackgroundColor="White" HorizontalOptions="Center" Padding="10"/>
                 <Label Text="Linha 02" HorizontalOptions="Center"/>
             </StackLayout>
             <StackLayout Padding="10" Orientation="Horizontal" BackgroundColor="#A0A0A0">

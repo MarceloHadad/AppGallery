@@ -13,6 +13,7 @@
                 <Button Text="TabbedPage" Clicked="AbrirTabbedPage"/>
                 <Button Text="MasterDetailPage" Clicked="AbrirMasterDetailPage"/>
                 <Button Text="Modal" Clicked="AbrirPaginaModal" />
+                <Button Text="Grid" Clicked="AbrirGrid" />
 
                 <Label Text="Leiautes" />
                 <Button Text="StackLayout" Clicked="AbrirStackLayout"/>
